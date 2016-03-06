@@ -1,0 +1,81 @@
+.sisu span{
+  font-style: italic;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+.sisu span:hover{
+  font-style: italic;
+  font-size: 150%;
+  text-decoration: underline;
+}
+.sisu{
+  text-align: center;
+  border: 5px solid DodgerBlue;
+  border-style: inset;
+}
+.sisu h1{
+  font-family: Arial, sans-serif, monospace;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 5em;
+  background: Aquamarine;
+  border: 2px solid LightSeaGreen;
+  border-radius: 15px;
+}
+.sisu p{
+  font-family: cursive, sans-serif, monospace;
+  text-align: justify;
+  width: 40em;
+  margin-left: 22em;
+}
+.sisu ul, .sisu ol{
+  font-family: cursive, sans-serif, monospace;
+  text-align: left;
+  margin-left: 29em;
+  list-style-type: circle;
+}
+.sisu li:hover{
+  font-size: 150%;
+  cursor: zoom-in;
+}
+.sisu h2{
+  font-family: Arial, sans-serif, monospace;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 3em;
+  border-bottom: 3px solid LightSeaGreen;
+  border-bottom-style: groove;
+  width: 10em;
+  margin-left: 9em;
+}
+.sisu h3{
+  font-family: Arial, sans-serif, monospace;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1em;
+}
+.sisu .pildile{
+  text-align: center;
+}
+.sisu a{
+  font-family: cursive;
+  font-weight: bold;
+  text-decoration: none;
+}
+.sisu a:hover{
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+}
+.sisu .suvapilt{
+  width: 30em;
+  height: 30em;
+}
+.sisu iframe{
+  width: 15em;
+  height: 15em;
+}
+body{
+  background-color: PowderBlue;
+}

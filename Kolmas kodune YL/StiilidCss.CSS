@@ -1,0 +1,41 @@
+div{
+  font-family: fantasy,sans-serif, monospace;
+  width: 25em;
+  background-color: Olive;
+  padding: 1em;
+  border: 1em inset Goldenrod;
+  }
+.roheline{
+  color: Green;
+  }
+.allajoonitud{
+  text-decoration: underline;
+  }
+.trTaust{
+  color: White;
+  background-color: DarkOliveGreen;
+  padding: 1em;
+  }
+.font2{
+  font-size: 200%
+  }
+.mono{
+  font-family: monospace;
+  }
+.kast{
+  border: 3px solid Black;
+  background-color: Yellow;
+  padding: 1em;
+  }
+.kast2{
+  border: 2px dashed Black;
+  padding: 1em;
+  border-radius: 2em;
+  }
+.kald{
+  font-style: italic;
+  text-align: center;
+  }
+.kursor:hover{
+  cursor: crosshair;
+  }
